@@ -1,4 +1,1 @@
-![mboukhal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mboukhal&show_icons=true&theme=cobalt)
-[![mboukhal Most Used Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mboukhal&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6)](https://github.com/mboukhal)
-
-Full-stack developer with a passion for NextJs and TypeScript, I have been working on various projects that challenge me to solve structural and technical issues. My most recent role was at ThinkValue, where I volunteered as a backend developer, using SvelteKit to create innovative solutions. I also have experience in front-end development, having worked on the LIMS Development project at UM6P - Mohammed VI Polytechnic University. I am always eager to learn new skills and technologies, and I am currently pursuing a degree in Digital Architecture at 1337 Future Is Loading. My goal is to use my skills and knowledge to create impactful and user-friendly web applications.
+Web / Iot developer
